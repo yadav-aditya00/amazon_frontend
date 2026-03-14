@@ -1,2 +1,2 @@
 # amazon_frontend
-thiis is front end project
+this is front end project
